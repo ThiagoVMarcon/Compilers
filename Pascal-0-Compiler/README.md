@@ -3,7 +3,7 @@
 
 ## Pascal-0 Compiler
 
-* Description of work in the document [trabalho.pdf](./trabalho.pdf)
+* Description of the work in the document [trabalho.pdf](./trabalho.pdf)
 * Description of the subset of the Pascal language in the document [pascal0-reference.pdf](./pascal0-reference.pdf)
 
 ## Sugestions
