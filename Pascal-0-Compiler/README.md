@@ -3,14 +3,11 @@
 
 ## Pascal-0 Compiler
 
-* Descrição do trabalho no documento [trabalho.pdf](./trabalho.pdf)
-* Descrição do subconjunto da linguagem Pascal no documento
-  [pascal0-reference.pdf](./pascal0-reference.pdf)
+* Description of work in the document [trabalho.pdf](./trabalho.pdf)
+* Description of the subset of the Pascal language in the document [pascal0-reference.pdf](./pascal0-reference.pdf)
 
-## Sugestões
+## Sugestions
 
-* Coloquem o código fonte num subdiretório  `src`.
-* Usem o `make`/`cabal` para automatizar a compilação de C ou Haskell
-  respetivamente.
-* Dispõe de um conjunto de programas de exemplo para testes no
-  subdiretório `examples`; podem ainda acrescentar mais.
+* Use `make`/`cabal` to automate C or Haskell compilation respectively.
+* There is a set of sample programs for testing on the `examples` subdirectory; can add even more.
+
