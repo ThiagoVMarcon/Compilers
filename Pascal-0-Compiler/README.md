@@ -1,7 +1,7 @@
 
-# Trabalho Laboratorial de Compiladores
+# Final Project of Compilers (CC3001)
 
-## Compilador de Pascal-0
+## Pascal-0 Compiler
 
 * Descrição do trabalho no documento [trabalho.pdf](./trabalho.pdf)
 * Descrição do subconjunto da linguagem Pascal no documento
@@ -14,8 +14,3 @@
   respetivamente.
 * Dispõe de um conjunto de programas de exemplo para testes no
   subdiretório `examples`; podem ainda acrescentar mais.
-
-Bom trabalho!
-
-----
-Pedro Vasconcelos, 2022.
