@@ -1,0 +1,17 @@
+name:                example
+version:             0.1.0.0
+synopsis:            Example of using Happy and Alex 
+description:         Example of using Happy and Alex 
+author:              Pedro Vasconcelos
+maintainer:          pbv@dcc.fc.up.pt
+category:            Language
+build-type:          Simple
+cabal-version:       >=1.10
+                     
+executable example
+  main-is:             Main.hs
+  other-modules:       Lexer, Parser
+  build-tools:         alex, happy
+  build-depends:       base, array
+  hs-source-dirs:      src
+  default-language:    Haskell2010
